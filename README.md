@@ -1,4 +1,10 @@
 # CS-255-Business-Requirements-Document-and-System-Design-Document
 This project was for the client DriverPass. DriverPass is a burgeoning driver's training company that aims to help fewer people pass the DMV's written and road test. They intend to do this by providing private driving lessons, online driving tutorials, and practice written tests. This project focused on taking what they requested in our initial meeting and turning it into various software design documents. They were requesting a website that users could log into, select a learning package, view online content, take practice tests, and schedule driving lessons. 
 </br>
-asdfasdf
+</br>
+In my opinion, I did a fairly good job on the Use Case diagram. I find being thorough to be very important, especially when it comes to presenting information to a customer. It is very important that that the customer understatnds exactly what your understanding of their request is so that no time is wasted working on something that they didn't want. Honestly, I think that I need to spend more time learning the difference between Functional and Nonfunctional requirements. I feel that these two groups of requirements should not have as much overlap as they do in my Business Requirements Document. Additionally, I feel that I should have included a "Session" class in the UML Class diagram to make it a more complete illustration of the system.
+</br>
+</br>
+When interpreting the user's needs, I try to take them as literally as possible. I tend not to overthink what they request, and give them exactly what they ask for. However, this can sometimes get you in trouble if the customer was not completely clear on something. This is why asking questions when gathering requirements is so important. Outside of a typical meeting, a more structured method of requirements gathering that makes the customer think about what they are asking for can be best to get the clearest picture of what your customer wants. The user's needs are the most important thing in software development. You, the analyst, are not a stakeholder. Your opinion on the system, while helpful, is ultimately not the opinion that matters. In my future analysis endeavors I intend to use the tools I learned in this course to determine precise requirements and easy to understand documentation. 
+</br>
+</br>
